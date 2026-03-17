@@ -62,4 +62,4 @@ Drug repurposing (or drug repositioning) is a strategy to discover new uses for 
 - Output: Probability of new disease indication  
 
 ## Output
-![Output](Screenshot(22).png)
+![Output](Screenshot (22).png)
