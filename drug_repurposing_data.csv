@@ -1,0 +1,9 @@
+drug_feature1,drug_feature2,drug_feature3,drug_feature4,disease
+0.2,0.5,0.1,0.3,Cancer
+0.3,0.7,0.2,0.4,Diabetes
+0.6,0.2,0.8,0.5,Alzheimer
+0.1,0.4,0.3,0.2,Cancer
+0.7,0.8,0.6,0.9,Heart Disease
+0.5,0.3,0.7,0.4,Alzheimer
+0.2,0.6,0.4,0.3,Diabetes
+0.9,0.7,0.8,0.6,Heart Disease
